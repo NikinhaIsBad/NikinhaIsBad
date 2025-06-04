@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nicolas Gabriel!
 
-<!--
-**NikinhaIsBad/NikinhaIsBad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br/)  
+💼 Estagiário de RPA na [Sis Innov & Tech](https://sis-it.com/)  
+📍 São Paulo, SP - Brasil  
+📬 nicolasspereira2004@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/nicolas-pereira-a65a7726b)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou um estudante de tecnologia em constante aprendizado, apaixonado por automação, programação e soluções criativas.  
+Atualmente desenvolvo automações com Python e Selenium, e tenho explorado também HTML, CSS, JavaScript e GitHub.
+
+---
+
+## 💡 Habilidades
+
+- 🤖 RPA (Automação Robótica de Processos)
+- 🐍 Python (Selenium, automações com web scraping)
+- 🌐 HTML, CSS, JavaScript
+- 🔄 Git e GitHub
+- 🧱 Modelagem de Banco de Dados
+- 🎯 Lógica de Programação e Projetos Pessoais
+
+---
+
+## 📌 Repositórios em destaque
+
+🔹 [stf-automation-example](https://github.com/NikinhaIsBad/stf-automation-example)  
+🔹 [projetoONG](https://github.com/NikinhaIsBad/projetoONG)
+
+---
+
+## 💬 Frase que me inspira
+
+> *“A prática é o que transforma curiosidade em habilidade.”*
+
+---
+
+Obrigado por visitar meu perfil! 🚀
