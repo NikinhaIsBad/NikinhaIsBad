@@ -29,7 +29,7 @@ Atualmente desenvolvo automações com Python e Selenium, e tenho explorado tamb
 ## 📌 Repositórios em destaque
 
 🔹 [stf-automation-example](https://github.com/NikinhaIsBad/stf-automation-example)  
-🔹 [projetoONG](https://github.com/NikinhaIsBad/projetoONG)
+🔹 [projetoONG](https://github.com/NikinhaIsBad/landing-page-cursinho)
 
 ---
 
