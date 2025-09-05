@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nicolas Gabriel!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br/)  
+🎓 Formado em Análise e Desenvolvimento de Sistemas na [Uninove](https://www.uninove.br/)  
 💼 Estagiário de RPA na [Sis Innov & Tech](https://sis-it.com/)  
 📍 São Paulo, SP - Brasil  
 📬 nicolasspereira2004@gmail.com  
