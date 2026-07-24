@@ -23,13 +23,13 @@ https://www.linkedin.com/in/nicolas-pereira-a65a7726b
 
 # 🚀 Sobre mim
 
-Sou Desenvolvedor de Software apaixonado por tecnologia, automação e soluções inteligentes.
+Sou Desenvolvedor RPA apaixonado por tecnologia, automação, soluções inteligentes e front end.
 
 Atualmente atuo no desenvolvimento de automações corporativas utilizando Python, Selenium, APIs e Inteligência Artificial, participando da construção de soluções voltadas à automação de processos empresariais, integração entre sistemas e processamento inteligente de documentos.
 
 Além da área de automação, também contribuo com manutenção, correção de bugs e implementação de melhorias em aplicações web, ampliando continuamente minha experiência em desenvolvimento Backend e Frontend.
 
-Tenho grande interesse por Arquitetura de Software, Inteligência Artificial, desenvolvimento Backend, Frontend e construção de soluções escaláveis, organizadas e de fácil manutenção.
+Tenho grande interesse por Automações, Arquitetura de Software, Inteligência Artificial, desenvolvimento Backend, Frontend e construção de soluções escaláveis, organizadas e de fácil manutenção.
 
 ---
 
