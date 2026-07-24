@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Nicolas Gabriel Pereira
 
-### 💻 Software Developer | Python | RPA | Inteligência Artificial | Backend | Frontend
+### 💻 Software Developer | Automation Developer | Python | RPA | Inteligência Artificial | Backend | Frontend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
